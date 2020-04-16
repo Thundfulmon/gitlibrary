@@ -38,5 +38,4 @@ int main()
     hotel t(a,325);
     t.show();
 }
-
-add 1；
+del 2
